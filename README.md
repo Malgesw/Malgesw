@@ -25,11 +25,11 @@ I enjoy working where Reinforcement Learning meets Robotics, from GPU-accelerate
 
 ## 🎓 Education
 
-**MSc in Computer Engineering** · *Automation and Intelligent Cyber-Physical Systems*
-Polytechnic University of Turin · Oct 2024 to present
+**MSc in Computer Engineering** · *Automation and Intelligent Cyber-Physical Systems*<br>
+Polytechnic University of Turin · Oct 2024 to present<br>
 Relevant coursework in Robot Learning, Service Robotics, Robotics Systems, ML for Vision and Multimedia, Nonlinear Control, Modeling & Control of Cyber-Physical Systems and Generative AI.
 
-**BSc in Computer Engineering**
+**BSc in Computer Engineering**<br>
 University of Florence · Sept 2021 to Oct 2024 · 110/110 with honours
 
 ## 📂 Projects
