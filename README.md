@@ -32,7 +32,7 @@ Relevant coursework in Robot Learning, Service Robotics, Robotics Systems, ML fo
 **BSc in Computer Engineering**<br>
 University of Florence · Sept 2021 to Oct 2024 · 110/110 with honours
 
-## 📂 Projects
+## 📂 Relevant Projects
 
 ▸ **[Robot-Learning-ADR](https://github.com/Malgesw/Robot-Learning-ADR)**
 PPO under Uniform vs Automatic Domain Randomization on MuJoCo's Hopper. ADR led on the harder obstacle task (1035 vs 800 reward) and was the only method robust to a mis-set randomization range. *Course project.*
